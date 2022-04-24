@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e73c03d-694a-4164-a7f9-1fa7148a4ac4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="284fD16WfOWPTwfXsrqAv5Am7Sd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="parse roscosmos" type="NodeJSConfigurationType" path-to-node="/usr/local/Cellar/node/17.0.1/bin/node" path-to-js-file="./parser.js" working-dir="$PROJECT_DIR$/../parsing-app">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e73c03d-694a-4164-a7f9-1fa7148a4ac4" name="Default Changelist" comment="" />
+      <created>1650480654819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650480654819</updated>
+      <workItem from="1650480655878" duration="443000" />
+      <workItem from="1650720398890" duration="6826000" />
+      <workItem from="1650808753393" duration="5442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="379" width="1072" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650826715523">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="744" y="379" width="1072" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1650826715523" />
+    <state width="1975" height="466" key="DebuggerActiveHint" timestamp="1650723394472">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1975" height="466" key="DebuggerActiveHint/0.0.2560.1440@0.0.2560.1440" timestamp="1650723394472" />
+    <state width="2539" height="351" key="GridCell.Tab.0.bottom" timestamp="1650826697402">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="351" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1650826697402" />
+    <state width="2539" height="351" key="GridCell.Tab.0.center" timestamp="1650826697401">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="351" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1650826697401" />
+    <state width="2539" height="351" key="GridCell.Tab.0.left" timestamp="1650826697400">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="351" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1650826697400" />
+    <state width="2539" height="351" key="GridCell.Tab.0.right" timestamp="1650826697401">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="351" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1650826697401" />
+    <state width="2539" height="787" key="GridCell.Tab.1.bottom" timestamp="1650728529708">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="787" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1650728529708" />
+    <state width="2539" height="787" key="GridCell.Tab.1.center" timestamp="1650728529707">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="787" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1650728529707" />
+    <state width="2539" height="787" key="GridCell.Tab.1.left" timestamp="1650728529707">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="787" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1650728529707" />
+    <state width="2539" height="787" key="GridCell.Tab.1.right" timestamp="1650728529707">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="787" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1650728529707" />
+    <state width="2539" height="787" key="GridCell.Tab.2.bottom" timestamp="1650728529708">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="787" key="GridCell.Tab.2.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1650728529708" />
+    <state width="2539" height="787" key="GridCell.Tab.2.center" timestamp="1650728529708">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="787" key="GridCell.Tab.2.center/0.0.2560.1440@0.0.2560.1440" timestamp="1650728529708" />
+    <state width="2539" height="787" key="GridCell.Tab.2.left" timestamp="1650728529708">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="787" key="GridCell.Tab.2.left/0.0.2560.1440@0.0.2560.1440" timestamp="1650728529708" />
+    <state width="2539" height="787" key="GridCell.Tab.2.right" timestamp="1650728529708">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="787" key="GridCell.Tab.2.right/0.0.2560.1440@0.0.2560.1440" timestamp="1650728529708" />
+    <state width="2539" height="787" key="GridCell.Tab.3.bottom" timestamp="1650728529709">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="787" key="GridCell.Tab.3.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1650728529709" />
+    <state width="2539" height="787" key="GridCell.Tab.3.center" timestamp="1650728529709">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="787" key="GridCell.Tab.3.center/0.0.2560.1440@0.0.2560.1440" timestamp="1650728529709" />
+    <state width="2539" height="787" key="GridCell.Tab.3.left" timestamp="1650728529709">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="787" key="GridCell.Tab.3.left/0.0.2560.1440@0.0.2560.1440" timestamp="1650728529709" />
+    <state width="2539" height="787" key="GridCell.Tab.3.right" timestamp="1650728529709">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="787" key="GridCell.Tab.3.right/0.0.2560.1440@0.0.2560.1440" timestamp="1650728529709" />
+    <state width="1280" height="720" key="XDebugger.FullValuePopup" timestamp="1650722827910">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1280" height="720" key="XDebugger.FullValuePopup/0.0.2560.1440@0.0.2560.1440" timestamp="1650722827910" />
+  </component>
+</project>
